@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shashwat Patel</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate MERN stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maverick-04507&label=Profile%20views&color=0e75b6&style=flat" alt="maverick-04507" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [https://maverick-04507.github.io/Portfolio/](https://maverick-04507.github.io/Portfolio/)
 
