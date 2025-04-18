@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shashwatp673@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h7gauaF2Hbic7KW4Iec0c68mORtCygLI/view?usp=drive_link](https://drive.google.com/file/d/1h7gauaF2Hbic7KW4Iec0c68mORtCygLI/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13hM_YIeu-I7HoCu52zglf_Xn3tUFnZ5E/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
